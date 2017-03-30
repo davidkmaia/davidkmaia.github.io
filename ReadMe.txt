@@ -1,16 +1,16 @@
-Free Bootstrap Resume/CV Template for developers
+Responsive HTML5 website template for developers
 
 Theme name:
 =======================================================================
-Orbit
+Developer
 
 Theme version:
 =======================================================================
-v1.0
+v1.5
 
 Release Date:
 =======================================================================
-29 Jan 2016
+07 Jan 2016
 
 Author: 
 =======================================================================
@@ -26,3 +26,5 @@ License:
 =======================================================================
 This template is free under the Creative Commons Attribution 3.0 License.
 https://creativecommons.org/licenses/by/3.0/
+
+If you'd like to use the template without the attribution, you can check out other license options via our website: http://themes.3rdwavemedia.com/
