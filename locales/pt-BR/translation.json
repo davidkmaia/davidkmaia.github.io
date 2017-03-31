@@ -1,4 +1,36 @@
 {
+	"__SESSIONS__":"SESSOES",
 	"titleAba" : "David Maia",
-  	"aboutMe": "Sobre Mim"
+	"latestProjects":"Últimos Projetos",
+	"otherProjects":"Outros Projetos",
+	"skills":"Habilidades",
+	"testimonials":"Depoimentos",
+	"education":"Educação",
+	"languages":"Idiomas",
+	"latestBlogPosts":"Últimos Posts do Blog",
+	"conferences":"Conferências",
+	"lectures":"Palestras",
+	"myGitHub":"Meu GitHub",
+
+  	"aboutMe": "Sobre Mim",
+  	"aboutMeBody": "Bacharel em Sistemas de Informação, com sólidos conhecimentos e experiências em projetos e desenvolvimento de soluções para ambientes web e integração de sistemas. 
+
+Sou desenvolvedor sênior/arquiteto, além de já ter atuado como líder de técnico, analista sênior e gestor de configuração.
+
+Atualmente tenho as certificações PSM1(Professional Scrum Master) e SCJP(Sun Certified Java Programmer).
+
+Como líder técnico:
+- Treinar novos membros da equipe na arquitetura do projeto. 
+- Tirar dúvidas e resolver problemas na equipe.
+
+Como desenvolvedor sênior/arquiteto:
+- Fazer a modelagem dos dados.
+- Integrar equipe de definição de arquitetura.
+- Codificar e desenvolver testes automatizados.
+
+Como líder de configuração:
+- Configurar e manter integração contínua com o Jenkins. 
+- Gerar baselines para entrega, tags e branchs. 
+- Criar release notes da aplicação e fazer deploy em servidores Windows e Linux. 
+- Normalmente me envolvo diretamente com o cliente para auxiliar na configuração e deploy da aplicação em servidores."
 }
