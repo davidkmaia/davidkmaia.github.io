@@ -1,4 +1,15 @@
 {
-	"titleAba" : "David Maia",
-  	"aboutMe": "Sur Moi"
+	"titleAba":"David Maia",
+	"latestProjects":"Últimos Projetos",
+	"otherProjects":"Outros Projetos",
+	"skills":"Habilidades",
+	"testimonials":"Depoimentos",
+	"education":"Educação",
+	"languages":"Idiomas",
+	"latestBlogPosts":"Últimos Posts do Blog",
+	"conferences":"Conferências",
+	"lectures":"Palestras",
+	"myGitHub":"Meu GitHub",
+  	"aboutMe":"Sobre Mim",
+  	"aboutMeBody":"Bacharel em Sistemas de Informação"
 }
